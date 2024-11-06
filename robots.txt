@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izuqieki.github.io/JbH/sitemap_index.txt
+Sitemap: https://izuqieki.github.io/cRx/sitemap_index.txt
+Sitemap: https://izuqieki.github.io/hKP/sitemap_index.txt
+Sitemap: https://izuqieki.github.io/lra/sitemap_index.txt
